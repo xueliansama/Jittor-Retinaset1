@@ -134,7 +134,7 @@ python train.py
 
 
 
-![image-20250816045633433](images/image-20250816045633433.png)
+![image-20250816045633433](images/image-mAP.png)
 
 ##### 性能对比
 
