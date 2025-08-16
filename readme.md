@@ -128,14 +128,14 @@ python train.py
 
 
 
-![image-20250816044850779](C:/Users/96292/AppData/Roaming/Typora/typora-user-images/image-20250816044850779.png)
+![image-20250816044850779](images/image-loss.png)
 
 ##### mAP
 
 
 
-![image-20250816045633433](C:/Users/96292/AppData/Roaming/Typora/typora-user-images/image-20250816045633433.png)
+![image-20250816045633433](images/image-20250816045633433.png)
 
 ##### 性能对比
 
-![image-20250816050624433](C:/Users/96292/AppData/Roaming/Typora/typora-user-images/image-20250816050624433.png)
+![image-20250816050624433](images/image-time.png)
